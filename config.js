@@ -1,7 +1,7 @@
-const ownerNumber = ["557187645787@s.whatsapp.net"] 
+const ownerNumber = ["557187645582910992675787@s.whatsapp.net"] 
 // mude somente o numero e não tire o @s.whatsapp.net
 
-const OriginalOwner = '55' 
+const OriginalOwner = '558291099267' 
 // mude para seu numero
 
 const gimagenotregister = true
@@ -133,7 +133,7 @@ let mess = {
 const vcard = 'BEGIN:VCARD\n' 
 + 'VERSION:3.0\n' 
 + 'FN:Meu criador^~^\n' 
-+ 'ORG:Ian;\n' 
++ 'ORG: Tabajara;\n' 
 + 'TEL;type=CELL;type=VOICE;waid=5521997482887:+55 21 99748-2887\n' 
 + 'END:VCARD'
 //vcard do propietário, mude os numeros de acordo com o formato que
